@@ -1,0 +1,38 @@
+﻿生成启动时间为 2016/6/7 11:00:05。
+     1>项目“F:\北京邮电大学\大二\下学期\程序设计\游戏\我的扫雷\MINE\MINE\MINE.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MINE.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MINE.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ClassView.cpp FileView.cpp MainFrm.cpp MINE.cpp MINEDoc.cpp MINEView.cpp OutputWnd.cpp PropertiesWnd.cpp Setdlg.cpp ViewTree.cpp
+         ViewTree.cpp
+         Setdlg.cpp
+         PropertiesWnd.cpp
+         OutputWnd.cpp
+         MINEView.cpp
+         MINEDoc.cpp
+         MINE.cpp
+         MainFrm.cpp
+         FileView.cpp
+         ClassView.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MINE.res" MINE.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\北京邮电大学\大二\下学期\程序设计\游戏\我的扫雷\MINE\Debug\MINE.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\北京邮电大学\大二\下学期\程序设计\游戏\我的扫雷\MINE\Debug\MINE.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\北京邮电大学\大二\下学期\程序设计\游戏\我的扫雷\MINE\Debug\MINE.lib" /MACHINE:X86 Debug\MINE.res
+         Debug\ClassView.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\MINE.obj
+         Debug\MINEDoc.obj
+         Debug\MINEView.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\Setdlg.obj
+         Debug\stdafx.obj
+         Debug\ViewTree.obj
+         MINE.vcxproj -> F:\北京邮电大学\大二\下学期\程序设计\游戏\我的扫雷\MINE\Debug\MINE.exe
+     1>已完成生成项目“F:\北京邮电大学\大二\下学期\程序设计\游戏\我的扫雷\MINE\MINE\MINE.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.84
